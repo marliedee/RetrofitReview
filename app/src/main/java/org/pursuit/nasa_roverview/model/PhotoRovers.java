@@ -1,7 +1,6 @@
 package org.pursuit.nasa_roverview.model;
 
 import java.io.Serializable;
-import java.util.List;
 
 public class PhotoRovers implements Serializable {
 
